@@ -1,1 +1,3 @@
 # Ocean-Swell-Model
+
+This project seeks to design and implement a recurrent neural network that can be applied to the time-series analysis of ocean swell events. The data we are analyzing is the spectral wave density dataset provided by the National Data Buoy Center and collected from [Station 46025](https://www.ndbc.noaa.gov/station_page.php?station=46025) off the coast of my hometown, Los Angeles, California. This data has been truncated to only include measurements from the calender year 2022.
